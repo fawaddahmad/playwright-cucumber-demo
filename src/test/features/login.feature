@@ -15,5 +15,5 @@ Feature: User Login
 
     Examples:
       | username               | password |
-      | setyouremail@gmail.com | yourpwd |
+      | setyouremail@gmail.com | yourpwd  |
 
