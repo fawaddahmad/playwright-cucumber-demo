@@ -14,6 +14,6 @@ Feature: User Login
     Then I should be redirected to the My Account page
 
     Examples:
-      | username          | password |
-      | fadnew1@gmail.com | Fadi_155 |
+      | username               | password |
+      | setyouremail@gmail.com | yourpwd  |
 
