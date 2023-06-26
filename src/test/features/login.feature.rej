@@ -1,0 +1,8 @@
+diff a/src/test/features/login.feature b/src/test/features/login.feature	(rejected hunks)
+@@ -15,5 +15,5 @@
+ 
+     Examples:
+       | username               | password |
+-      | setyouremail@gmail.com | yourpwd |
++      | setyouremail@gmail.com | yourpwd  |
+ 
