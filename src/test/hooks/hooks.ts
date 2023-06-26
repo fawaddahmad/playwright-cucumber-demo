@@ -15,10 +15,7 @@ BeforeAll(async function () {
 
 Before(async function () {
   context = await browser.newContext({
-    httpCredentials: {
-      username: "storefront",
-      password: "Handbags123",
-    },
+    // httpCredentials: {},
     // permissions: ["geolocation"],
     // geolocation: { latitude: 27.6648, longitude: 81.5158 },
   });
